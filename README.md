@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="google-banner.svg" alt="Google Product Lifecycle & Innovation Analysis Banner" width="60%">
+  <img src="google-banner.svg" alt="Google Product Lifecycle & Innovation Analysis Banner" width="30%">
 </p>
 
 <h1 align="center">Google Product Lifecycle & Innovation Analysis</h1>
